@@ -18,7 +18,7 @@ My current code dump is on [SmalltalkHub TWM for Pharo 5](http://smalltalkhub.co
 
 To load it from a Playground:
 
-  Gofer it
-    url: 'http://smalltalkhub.com/#!/~philippeback/TWM';
-    configurationOf: 'TilingWindowManager';
-    loadDevelopment.
+   Gofer it
+     url: 'http://smalltalkhub.com/#!/~philippeback/TWM';
+     configurationOf: 'TilingWindowManager';
+     loadDevelopment.
